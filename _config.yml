@@ -1,0 +1,4 @@
+# _config.yml
+include: ['.html']
+exclude: ['README.md']
+theme: jekyll-theme-minimal
